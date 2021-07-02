@@ -1,1 +1,46 @@
-<mxfile host="app.diagrams.net" modified="2021-07-02T18:08:14.749Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" version="14.8.4" etag="VP0vB_g0EIzZZfNdgIY9" type="github"><diagram id="nRC3sU_aGPqJieJxhpZr">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-07-02T19:11:10.505Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="gHkgPzTK0NAtNPAq80tg" version="14.8.4" type="github">
+  <diagram id="nRC3sU_aGPqJieJxhpZr" name="Page-1">
+    <mxGraphModel dx="755" dy="363" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="IYX_xm7PhufkLfahD2e6-4" value="&lt;b&gt;2. Tulaj&amp;nbsp;&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Times New Roman;align=left;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="45" y="170" width="315" height="315" as="geometry" />
+        </mxCell>
+        <mxCell id="IYX_xm7PhufkLfahD2e6-3" value="4. Damanhuri beavatottak" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Times New Roman;fontStyle=1;gradientColor=#ffffff;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="290" y="120" width="180" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="IYX_xm7PhufkLfahD2e6-5" value="&lt;span&gt;&lt;b&gt;1. Ott is szeretne élni&amp;nbsp;&lt;/b&gt;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Times New Roman;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="160" y="227.5" width="200" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="IYX_xm7PhufkLfahD2e6-6" value="&lt;b&gt;5. CSAK Pénteki zoom résztvevő, járt Hárskúton&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Times New Roman;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="20" y="380" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="IYX_xm7PhufkLfahD2e6-7" value="&lt;b&gt;6. Damanhuri med. iskola I.&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Times New Roman;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="247.5" y="182.5" width="222.5" height="222.5" as="geometry" />
+        </mxCell>
+        <mxCell id="IYX_xm7PhufkLfahD2e6-8" value="&lt;font color=&quot;#ff0000&quot;&gt;7. Inaktív, Damanhurban spirituális néphez tartozó fogadalmat tett&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Times New Roman;fillColor=#E6FFCC;" vertex="1" parent="1">
+          <mxGeometry x="640" y="227.5" width="177.5" height="177.5" as="geometry" />
+        </mxCell>
+        <mxCell id="IYX_xm7PhufkLfahD2e6-2" value="3. aktív, pénteki zoom + ingatlanos munkák" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Times New Roman;fontStyle=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="245" y="280" width="225" height="225" as="geometry" />
+        </mxCell>
+        <mxCell id="IYX_xm7PhufkLfahD2e6-11" value="" style="shape=flexArrow;endArrow=classic;html=1;fontFamily=Times New Roman;width=14;endSize=9.53;endWidth=18;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="540" y="380" as="sourcePoint" />
+            <mxPoint x="460" y="390" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="510" y="380" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IYX_xm7PhufkLfahD2e6-13" value="" style="shape=flexArrow;endArrow=classic;html=1;fontFamily=Times New Roman;width=14;endSize=9.53;endWidth=18;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="IYX_xm7PhufkLfahD2e6-8">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="500" y="310" as="sourcePoint" />
+            <mxPoint x="440" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
